@@ -11,7 +11,7 @@ readme = "README.md"
 exclude = ["performance.png", "/sgx/*"]
 
 [features]
-default = ["std", "mesalock_sgx"]
+default = ["std"]
 i128 = []
 std = []
 
